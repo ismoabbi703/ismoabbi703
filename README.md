@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismoabbi703
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python/javascript
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
